@@ -27,17 +27,14 @@ git clone https://github.com/your-username/RTSP-App.git
 2️⃣ Enter a valid RTSP URL (e.g., rtsp://your-camera-url)
 3️⃣ Click "Start Streaming"
 4️⃣ Enjoy real-time video playback! 🎥
-
-## 📸 Screenshots  
-📍 Below are some snapshots of the app in action!  
-
+##📸 Screenshots
+📍 Below are some snapshots of the app in action!
 | **Home Screen** | **Video Streaming Screen** | **Profile Screen** |
 |---------------|------------------|---------------|
-| ![Home Screen](https://raw.githubusercontent.com/Premkumarr07/RTSPStreaming/master/app/src/main/res/drawable/Screenshot%202025-02-23%20185651.png) | ![Video Streaming Screen](https://raw.githubusercontent.com/Premkumarr07/RTSPStreaming/master/app/src/main/res/drawable/Screenshot%202025-02-23%20185851.png) | ![Profile Screen](https://raw.githubusercontent.com/Premkumarr07/RTSPStreaming/master/app/src/main/res/drawable/Screenshot%202025-02-23%20190046.png) |
+|![Home Screen](https://github.com/Premkumarr07/RTSPStreaming/blob/master/app/app/src/main/res/drawable/Screenshot%202025-02-23%20185651.png)|
+![VideoSteaming Screen](https://github.com/Premkumarr07/RTSPStreaming/blob/master/app/app/src/main/res/drawable/Screenshot%202025-02-23%20185851.png)|
+![Profile Screen](https://github.com/Premkumarr07/RTSPStreaming/blob/master/app/app/src/main/res/drawable/Screenshot%202025-02-23%20190046.png)|
 
----
-
-Home Screen	Enter RTSP URL	Streaming Video
 ##💡 Creativity & Enhancements
 🎨 Dark & Light Mode Support
 🚀 Future updates planned for multi-stream support
